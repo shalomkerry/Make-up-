@@ -415,6 +415,6 @@ FOOTER
   footer {
     margin-top: 20px;
     justify-content: center;
-    align-items: center;
+    align-items: flex-end;
   }
 }
